@@ -1,0 +1,17 @@
+body {
+  background-color: azure;
+}
+main {
+  max-width: 1024px;
+  margin: 80px auto;
+}
+img {
+  display: inline-block;
+  width: 78px;
+  height: 108px;
+  border: 1px solid black;
+}
+.base-info h1 {
+  display: inline;
+  padding-left: 30px; 
+}
